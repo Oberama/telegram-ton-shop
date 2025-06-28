@@ -1,1 +1,1 @@
-# https-github.com-_-telegram-ton-shop
+telegram-ton-shop
